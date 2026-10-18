@@ -1,0 +1,12 @@
+pandas
+numpy
+scipy
+scikit-learn
+openpyxl
+lightgbm>=4.0
+rapidfuzz
+torch
+transformers>=4.43
+sentence-transformers
+peft>=0.11
+accelerate

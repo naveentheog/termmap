@@ -1,0 +1,11 @@
+{
+ "dict_emb_dir": "weights/dict_emb",
+ "train_emb_dir": "weights/train_emb",
+ "bi_model": "weights/sapft_full",
+ "bi_emb_dir": "weights/sapft_emb",
+ "bi3_model": "weights/sapft3_full",
+ "bi3_emb_dir": "weights/sapft3_emb",
+ "ce_model": "weights/ce4_full",
+ "llm_base": "Qwen/Qwen2.5-7B-Instruct",
+ "llm_adapter": "weights/lora_full"
+}

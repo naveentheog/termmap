@@ -1,0 +1,16 @@
+data/*
+!data/README.txt
+cache/
+*.csv
+*.xlsx
+*.pkl
+.env
+__pycache__/
+weights/*
+!weights/README.txt
+hf_cache/
+models_final_ho*/
+outputs/
+*.npy
+!models_final/*.txt
+!models_final/aux.pkl
