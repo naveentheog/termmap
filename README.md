@@ -12,7 +12,7 @@ All models are open-weight and self-hosted, so the data never goes to an externa
 | Diagnosis rows | 72.8% | 69.0% | – |
 | Codes never seen in training | 53.2% | 48.1% | – |
 
-**Links:** Demo video: [Google Drive](https://drive.google.com/drive/folders/1rqzSmZfYWchnJlvUm92Fw7DQa_G7yinX?usp=sharing) · Write-up PDF: [docs/TermMap_Writeup_TeamRanger.pdf](docs/TermMap_Writeup_TeamRanger.pdf) · Weights: https://huggingface.co/Naveenmeena/termmap-weights
+**Links:** Demo video: [Google Drive](https://drive.google.com/drive/folders/1rqzSmZfYWchnJlvUm92Fw7DQa_G7yinX?usp=sharing) · Write-up PDF: [Google Drive](https://drive.google.com/drive/folders/1ZYZWa0wbLw73pXPmdszH0gVEyzOO28BJ?usp=sharing) (also in [docs/](docs/TermMap_Writeup_TeamRanger.pdf)) · Weights: https://huggingface.co/Naveenmeena/termmap-weights
 
 ---
 
